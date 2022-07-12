@@ -1,4 +1,4 @@
-local AkaliNotif = loadstring(game:HttpGet("new link"))();
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/OxygenOverVapes/Da-Hood-aimlock/main/side"))();
 local Notify = AkaliNotif.Notify;
 
 --[[
